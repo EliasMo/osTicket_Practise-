@@ -81,7 +81,7 @@ This is how info.php look like:
 ![image](https://github.com/user-attachments/assets/b00cdbee-f30e-4c05-9cec-76193e18830d)
 
 
-## osTicket Installation 
+## osTicket  and MySQL Installation 
 
 ### Download and File Setup 
 1. Download osTicket
@@ -159,13 +159,15 @@ To make it: got to C:\PHP and find php.ini-development.
 Copy it and rename it to php.ini. There we can edit to enable the needed extensions. 
 ![image](https://github.com/user-attachments/assets/41522e6a-2e22-45aa-b3cf-43b5b3bd71dc)
 
+------------------
+Downlaod MySQL 
+![image](https://github.com/user-attachments/assets/d93556af-5f16-4527-8a88-4b64c8d958fc)
 
+Create Root password 
+![image](https://github.com/user-attachments/assets/f0fa2947-1fb0-40bd-87dc-88c68ce24316)
 
-
-
-
-3. Access osTicket through browser - localhost/osTicket
-
+Test Mysql is working 
+![image](https://github.com/user-attachments/assets/c754bb11-b846-4162-a4cb-d53d1615b6e3)
 
 
 
